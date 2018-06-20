@@ -1,0 +1,24 @@
+
+section {
+	margin-left: 530px;
+}
+body {
+	background-color: #DDA0DD;
+}
+p {
+	margin-left: 560px;
+	font-size: 40px;
+}
+input
+{
+	margin-left: 20px;
+}
+form{
+	font-size: 18px;
+}
+fieldset {
+	width: 150px;
+}
+button {
+	margin-left: 75px;
+}
